@@ -29,6 +29,7 @@ ArgoCD installation wurde mittels Helm durchgefuehrt , die Values wurden nichet 
 
 ###  TLS Configuration
 Konfiguration mittels cert-manager.
+Die Frage uber die verbliebenen Einstellungen der TLS bleibt z.Z noch nicht vollstandig geklaert.
 
 ### Argo CD CLI
 - get argocd password
@@ -46,7 +47,7 @@ argocd login localhost:8000
 
 ```
 
-
+### Argocd setup 
 
 
 

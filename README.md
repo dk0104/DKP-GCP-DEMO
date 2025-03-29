@@ -1,4 +1,4 @@
-# toy-infrastructure
+# Microservice K8S DKP based project
 # Links und andere nuetzliche Hinweise
 - [cert-manager](https://cert-manager.io/docs/tutorials/acme/http-validation/)
 - [istio](https://cert-manager.io/docs/tutorials/acme/http-validation/)

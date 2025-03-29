@@ -1,0 +1,6 @@
+apiVersion: deckhouse.io/v1alpha1
+kind: ModuleConfig
+metadata:
+  name: console
+spec:
+  enabled: true
